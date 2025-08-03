@@ -40,7 +40,7 @@
   <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" title="Cloudinary" width="40" height="40"/>&nbsp;
 
   <!-- Integraciones de Pago -->
-  <img src="https://seeklogo.com/images/M/mercado-pago-logo-8A3D62C58A-seeklogo.com.png" title="Mercado Pago" width="80" height="40"/>&nbsp;
+  <img src="[https://seeklogo.com/images/M/mercado-pago-logo-8A3D62C58A-seeklogo.com.png](https://camo.githubusercontent.com/bddc0adb76aae47ca3a0ea293c42e0f18f9c20708ac86288853cbca9e3d14f53/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6d65726361646f7061676f2f303042314541)" title="Mercado Pago" width="80" height="40"/>&nbsp;
 
   <!-- Testing -->
   <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" title="Jasmine" width="40" height="40"/>&nbsp;
