@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40" height="40"/>&nbsp;
-  <img src="Logos/nestjs.png" title="NestJS" width="40" height="40"/>&nbsp;
+  <img src="Logos/nestjs.png.png" title="NestJS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
@@ -44,7 +44,7 @@
 
   <!-- Integraciones de Pago -->
 
-<img src="Logos/mercadopago.png" title="Mercado Pago" width="80" height="40"/>&nbsp;
+<img src="Logos/mercadopago.png" title="Mercado Pago" width="60" height="40"/>&nbsp;
 
   <!-- Testing -->
 
